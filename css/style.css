@@ -310,6 +310,12 @@ h1, h2, h3, h4, h5, h6, figure {
   background: #2F3C4F;
   background: rgb(15, 113, 143);
 }
+.fh5co-bg-darky {
+  background: rgb(13, 70, 104);
+  
+  
+}
+
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff !important;
 }
