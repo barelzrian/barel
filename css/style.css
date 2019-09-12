@@ -257,7 +257,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 100px;
-  color: rgb(15, 113, 143); !important;
+  color: rgb(15, 113, 143);
 }
 #fh5co-features .feature-left .feature-copy {
   width: 100%;
@@ -681,7 +681,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background-color: #c0392b !important;
 }
 .progress-bar.progress-bar-3 {
-  background-color: rgb(15, 113, 143); !important;
+  background-color: rgb(15, 113, 143); ;
 }
 .progress-bar.progress-bar-4 {
   background-color: #8e44ad !important;
@@ -1122,8 +1122,8 @@ input[type="text"] {
   border: 2px solid rgb(15, 113, 143);
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: rgb(15, 113, 143); !important;
-  border-color: rgb(15, 113, 143);!important;
+  background: rgb(15, 113, 143);
+  border-color: rgb(15, 113, 143);
 }
 .btn-primary.btn-outline {
   background: transparent;
@@ -1297,3 +1297,5 @@ input[type="text"] {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
